@@ -5,8 +5,10 @@
 
 Short explanation-(IMPORTANT -To use this downloader the best way is to download python and run it on the python launcher. This code will auto install anything you need to get it to work also gives 3 videos. no sound, mp3 audio, and final_video audio and video, you can also choose quality. This file downloader i created has 2 version.
 
-VERSION 1. wiNDOWS ONLY
+VERSION 1. WiNDOWS ONLY
 VERSION 2. MAC/WINDOWS
+
+Warning: Do not use this downloader to steal other peoples content, audio, videos for any reason. This is specifially for people who are using for non-profit or need to recover/edit lost videos on youtube
 
 Long explination.-----YouTube Downloader is a Python-based tool created by BlackSmith Ether to download videos from YouTube. It uses the yt_dlp library to handle video extraction and download, while ffmpeg is employed to merge video and audio tracks, ensuring compatibility with various media players. This tool allows users to choose the quality of the video and select the download directory.
 Features
