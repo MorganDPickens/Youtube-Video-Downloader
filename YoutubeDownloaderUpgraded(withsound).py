@@ -1,4 +1,4 @@
-# Youtube downloader created by BlackSmith Ether
+# Youtube downloader created by BlackSmith Ether MorganDPickens
 
 import subprocess
 import sys
