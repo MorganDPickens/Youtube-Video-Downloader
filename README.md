@@ -3,7 +3,7 @@
 
 
 
-Short explanation------ YouTube Downloader - README (IMPORTANT -To use this downloader the best way is to download python and run it on the python launcher. This code will auto install anything you need
+Short explanation------ (IMPORTANT -To use this downloader the best way is to download python and run it on the python launcher. This code will auto install anything you need
 
 Long explination.-----YouTube Downloader is a Python-based tool created by BlackSmith Ether to download videos from YouTube. It uses the yt_dlp library to handle video extraction and download, while ffmpeg is employed to merge video and audio tracks, ensuring compatibility with various media players. This tool allows users to choose the quality of the video and select the download directory.
 Features
